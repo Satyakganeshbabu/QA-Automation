@@ -1,4 +1,4 @@
-# Harvee QA Automation Assessment — Selenium + Java
+# QA Automation Assessment — Selenium + Java
 
 ## Stack
 - Java 21
